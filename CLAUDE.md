@@ -5,6 +5,7 @@ Este archivo guía a Claude Code (claude.ai/code) al trabajar con código en est
 ## Estilo de Comunicación
 
 - En todas las interacciones y mensajes de commit, sé extremadamente conciso y sacrifica gramática por concisión.
+- Los commits deben escribirse en español.
 
 ## Planes
 
